@@ -14,6 +14,7 @@ O projeto abrange desde a estratégia de conteúdo até a implementação técni
 4. **[Expansão Multiplataforma](docs/4-expansao-multiplataforma.md)** - Instagram Reels, YouTube Shorts e outras redes
 5. **[Monetização](docs/5-monetizacao.md)** - Parcerias, Fundo de Criadores, Lives e outros modelos de receita
 6. **[Passo a Passo de Implementação](docs/6-implementacao.md)** - Guia prático desde o zero até a operação contínua
+7. **[Exemplos de Prompts](docs/exemplos-prompts.md)** - Modelos de prompts para Midjourney e Sora
 
 ## Como Usar Este Repositório
 
