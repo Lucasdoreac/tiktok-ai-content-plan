@@ -16,9 +16,21 @@ O projeto abrange desde a estratégia de conteúdo até a implementação técni
 6. **[Passo a Passo de Implementação](docs/6-implementacao.md)** - Guia prático desde o zero até a operação contínua
 7. **[Exemplos de Prompts](docs/exemplos-prompts.md)** - Modelos de prompts para Midjourney e Sora
 
+## Exemplos Práticos
+
+Na pasta [exemplos](exemplos/) você encontrará recursos para implementação:
+
+- **[Script de Automação](exemplos/automation-script.js)** - Código JavaScript para automatizar todo o fluxo de trabalho
+
 ## Como Usar Este Repositório
 
 Cada seção do plano está detalhada em seu próprio arquivo markdown na pasta `/docs`. Siga os documentos em ordem para implementar o projeto completamente ou consulte seções específicas conforme necessário.
+
+Para começar rapidamente:
+
+1. Leia o arquivo **[Estratégia de Conteúdo](docs/1-estrategia-conteudo.md)** para entender a visão geral
+2. Consulte **[Passo a Passo de Implementação](docs/6-implementacao.md)** para o guia de configuração
+3. Explore os exemplos práticos na pasta [exemplos](exemplos/)
 
 ## Contribuições
 
